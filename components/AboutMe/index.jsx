@@ -92,7 +92,7 @@ const AboutMe = forwardRef((props, ref) => {
           box-shadow: var(--card-shadow);
           transition: transform 0.3s, box-shadow 0.3s;
           cursor: pointer;
-          border: 1px solid rgba(59, 130, 246, 0.1);
+          border: 1px solid rgba(255, 237, 237, 1);
           padding: 24px;
           height: 100%;
           text-align: left;
@@ -132,7 +132,7 @@ const AboutMe = forwardRef((props, ref) => {
         }
 
         .activity-item {
-          background-color: rgba(59, 130, 246, 0.08);
+          background-color: rgba(255, 237, 237, 1);
           padding: 6px 12px;
           border-radius: 20px;
           margin-bottom: 8px;
