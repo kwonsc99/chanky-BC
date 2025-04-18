@@ -5,7 +5,7 @@ export default function Hero({ isAnimated }) {
     <section className="container hero-container">
       <div className="intro-container">
         <h1 className="heading">
-          주니어 기획자 <span className="bold">권석찬</span>입니다.
+          안주하지 않는 기획자, <span className="bold">권석찬</span>입니다.
         </h1>
         <p className="subheading">
           고객의 필요를 선제적으로 파악하고, 적시에 실현가능한 형태로

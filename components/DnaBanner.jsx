@@ -1,7 +1,7 @@
 export default function DnaBanner() {
   return (
     <div className="dna-container">
-      <h2 className="dna-title">기획자의 DNA</h2>
+      <h2 className="dna-title">비씨카드의 DNA</h2>
       <p className="dna-description">
         Data를 기반으로 한 합리적인 의사결정
         <br />
